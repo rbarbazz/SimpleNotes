@@ -1,0 +1,6 @@
+## Interface: 57807
+## Title: Simple Notes
+## Author: rbarbazz
+## Version: 1.0.0
+## SavedVariablesPerCharacter: CharacterNotes
+SimpleNotes.lua
