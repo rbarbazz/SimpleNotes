@@ -20,4 +20,4 @@ You can use the following slash commands to interact with the addon:
 
 ## Screenshots
 
-![Screenshot of the SimpleNotes addon](SimpleNotes.png)
+![Screenshot of the SimpleNotes addon](assets/SimpleNotes.png)
