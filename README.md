@@ -17,3 +17,7 @@ You can use the following slash commands to interact with the addon:
 `/sn` - Toggle the notes frame.
 
 ***Note**: Currently, there is no dedicated button to open the notes. To make it easier to open the notes, you can bind the `/sn` command to a macro.*
+
+## Screenshots
+
+![Screenshot of the SimpleNotes addon](SimpleNotes.png)
