@@ -1,6 +1,12 @@
-## Interface: 11505
 ## Title: Simple Notes
+## Notes: Simple Notes is a World of Warcraft addon that allows you to take and save notes for your character.
 ## Author: rbarbazz
-## Version: 1.0.0
+
+## Version: @project-version@
+## Interface: 110005
+## Interface-Classic: 11505
+## X-Curse-Project-ID: 1152783
+
 ## SavedVariablesPerCharacter: CharacterNotes
+
 SimpleNotes.lua
